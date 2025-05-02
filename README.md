@@ -1,6 +1,6 @@
 # FS25_extendedFunctions
 
-aktuelle Version: **1.0.1**
+aktuelle Version: **1.0.2**
 
 Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously007/FS25_extendedFunctions/releases/latest/download/FS25_extendedFunctions.zip)
 
@@ -15,9 +15,9 @@ Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously00
 * in gefüllten Silos wird der Dialog angepasst, so dass nur noch die eingelagerten Filltypen beim Auslagern zur Auswahl stehen
 
 durch den Mod werden folgende Limits anpassbar gemacht:
-  * Produktionspunkte (Standard: 60)
-  * Tierställe (Standard: 15)
-  * Paletten (Standard: 300)
-  * Ballen (Standard: 300)
+  * Produktionspunkte (1 - 120)
+  * Tierställe (1 - 64)
+  * Paletten (300 - 9999)
+  * Ballen (300 - 9999)
 
 Anpassungen können in der xml im Ordner ModSettings im Unterordner des Mods vorgenommen werden. Hierbei werden die Limits für Ballen und Paletten über die Einstellung objectLimit eingestellt.
