@@ -1,6 +1,6 @@
 # FS25_extendedFunctions
 
-aktuelle Version: **1.4.0**
+aktuelle Version: **1.4.1**
 
 Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously007/FS25_extendedFunctions/releases/latest/download/FS25_extendedFunctions.zip)
 
@@ -16,8 +16,8 @@ Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously00
 * Öffnungszeiten können über die xml einer Produktion oder bequem im Spiel eingestellt und angepasst werden
 
 durch den Mod werden folgende Limits anpassbar gemacht:
-  * Produktionspunkte (1 - 120)
-  * Tierställe (1 - 64)
+  * Produktionspunkte (60 - 120)
+  * Tierställe (15 - 64)
   * Paletten (300 - 9999)
   * Ballen (300 - 9999)
   * Filltypen (512)
