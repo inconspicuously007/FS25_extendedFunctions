@@ -1,6 +1,6 @@
 # FS25_extendedFunctions
 
-aktuelle Version: **1.4.1**
+aktuelle Version: **1.6.0**
 
 Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously007/FS25_extendedFunctions/releases/latest/download/FS25_extendedFunctions.zip)
 
@@ -11,9 +11,13 @@ Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously00
 * in Ställen wird der mögliche Lagerstand von Futtermitteln gemäß des Mischverhältnisses begrenzt (bei Tieren mit paralleler Fütterung: Schweine, Pferde) und das Überbefüllen ausgeschlossen
 * in Produktionen wird der Modus der Ausgangsprodukte angepasst auf: Einlagern, Auslagern, Verteilen und Direktverkauf
 * der Modus kann für alle Ausgangsprodukte gesammelt oder getrennt eingestellt werden
-* Paletten in Produktionen können manuell mit Angabe der Anzahl ausgelagert werden
+* Paletten in Produktionen können manuell mit Angabe der Anzahl ausgelagert werden, abhängig von der Definition des Palettenspawners
 * in gefüllten Silos wird der Dialog angepasst, so dass nur noch die eingelagerten Filltypen beim Auslagern zur Auswahl stehen
 * Öffnungszeiten können über die xml einer Produktion oder bequem im Spiel eingestellt und angepasst werden
+* angepasste Verteilung zwischen den Produktionen
+  * nur Produktionen mit aktiven Linien werden berücksichtigt
+  * Lagerstände der empfangenden Produktionen werden berücksichtigt, Sortierung erfolgt nach freiem Platz aufsteigend
+  * Validierung und ggf. Neuberechnung der zu verteilenden Menge nach jedem Verteilschritt   
 
 durch den Mod werden folgende Limits anpassbar gemacht:
   * Produktionspunkte (60 - 120)
