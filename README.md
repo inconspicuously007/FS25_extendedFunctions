@@ -20,7 +20,7 @@ Direkter Download: [FS25_extendedFunctions](https://github.com/inconspicuously00
   * Validierung und ggf. Neuberechnung der zu verteilenden Menge nach jedem Verteilschritt   
 
 durch den Mod werden folgende Limits anpassbar gemacht:
-  * Produktionspunkte (60 - 120)
+  * Produktionspunkte (60 - 9999)
   * Tierställe (15 - 64)
   * Paletten (300 - 9999)
   * Ballen (300 - 9999)
