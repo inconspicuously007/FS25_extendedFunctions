@@ -50,4 +50,5 @@ the following limits are adjustable through this mod:
   * pallets (300 - 9999)
   * bales (300 - 9999)
   * fill types (512)
-These adjustments are made by changing the values in the xml file located in the modSettings folder within the subfolder for the mod. The limits for pallets and bales are set by using the objectLimit attribute.
+
+These adjustments, except the filltype limitation, are made by changing the values in the xml file located in the modSettings folder within the subfolder for the mod. The limits for pallets and bales are set by using the objectLimit attribute.
